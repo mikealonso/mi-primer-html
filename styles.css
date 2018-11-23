@@ -1,0 +1,34 @@
+
+
+section{
+        background-color:teal;
+        color:floralwhite;
+    }
+
+header{
+    background-color:teal;
+    color:floralwhite; 
+}
+
+li{
+    display: inline;
+}
+img{ /*selector de etiqueta*/
+    width: 250px;
+    height: 100px;
+    animation: cubic-bezier(0.075, 0.82, 0.165, 1) 
+}
+
+#rosita {
+    background-color: aqua
+}
+
+#moun { /*selector de id*/
+    width: 100px;
+}
+
+.peperoni{ /*selector de clase*/
+    background-color: peru;
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
